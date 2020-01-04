@@ -1,7 +1,7 @@
 {
   "name": "connect-better-sqlite3",
   "description": "SQLite3 session store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Shiba Komino",
   "main": "lib/connect-better-sqlite3",
   "scripts": {
