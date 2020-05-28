@@ -1,14 +1,14 @@
 {
   "name": "connect-better-sqlite3",
   "description": "SQLite3 session store",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": "Shiba Komino",
   "main": "lib/connect-better-sqlite3",
   "scripts": {
     "test": "mocha test/test.js"
   },
   "dependencies": {
-    "better-sqlite3": "^6.0.1"
+    "better-sqlite3": "^7.0.1"
   },
   "devDependencies": {
     "connect": ">=1.0.0",
